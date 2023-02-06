@@ -1,0 +1,18 @@
+:root {
+    --primary: rgb(32, 78, 10);
+    --secondary: rgb(6, 15, 169);
+    --tertiary: rgba(49, 52, 61, 1);
+    --dark: rgba(28, 29, 33, 1);
+    --light: rgba(238, 238, 247, 1);
+}
+
+header {
+    padding: 15px 6% 15px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: var(--tertiary);
+    box-shadow: 0 5px 35px rgb(146 204 206 / 40%);
+}
