@@ -1,1 +1,2 @@
 # KJ-Portfolio
+A portfolio of my work. Obviously still a lot I need to work on but I thought this was a nice start. Trying to figure out why my pictures won't load, they showed in the live pages for my default brower. 
