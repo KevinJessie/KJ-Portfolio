@@ -133,6 +133,14 @@ flex-item:first-child {
     background-size: 100% 88%;
     color: var(--secondary);
   }
+  .page-section > h2 {
+    flex: 0 0 20%;
+    text-align: left;
+    padding-right: 15px;
+    border-right: 4px solid var(--primary);
+    font-size: 3vw;
+    line-height: 1.1;
+}
 
   @media screen and (max-width: 980px) {
     header {
