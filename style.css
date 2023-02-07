@@ -42,7 +42,7 @@ nav a {
 
 .logo-banner {
     background: rgb(3, 3, 3);
-    background-image: url("02-Advanced-CSS/02-Challenge/Main/assets/images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 50%, var(--primary) 100%);
+    background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 50%, var(--primary) 100%);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -87,26 +87,25 @@ flex-item:first-child {
     min-height: 400px;
     flex-basis: 100%;
 }
-
+.surf-report {
+    background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-portfolio-4.jpg");
+  }
 .run-buddy {
-    background-image: url("../images/02-run-buddy.jpg");
+    background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-run-buddy.jpg");
   }
   
   .led-wall {
-    background-image: url("../images/02-portfolio-1.jpg");
+    background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-portfolio-1.jpg");
   }
   
   .react-calc {
-    background-image: url("../images/02-portfolio-2.jpg");
+    background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-portfolio-2.jpg");
   }
   
   .pastel-puzzles {
-    background-image: url("../images/02-portfolio-3.jpg");
+    background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-portfolio-3.jpg");
   }
   
-  .surf-report {
-    background-image: url("../images/02-portfolio-4.jpg");
-  }
 
   .contact address {
     display: flex;
