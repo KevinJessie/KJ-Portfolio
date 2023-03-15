@@ -93,7 +93,7 @@ flex-item:first-child {
     flex-basis: 100%;
 }
 .surf-report {
-    background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-portfolio-4.jpg");
+    background-image: url("02-portfolio-4.jpg");
   }
 .run-buddy {
     background-image: url("/Users/kevinjessiejr/bootcamp/course/02-Advanced-CSS/02-Challenge/Main/assets/images/02-run-buddy.jpg");
